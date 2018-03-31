@@ -1,9 +1,12 @@
 - language:
-  idiom: English
-  level: Native
-- language:
-  idiom: French
-  level: Professional
-- language:
   idiom: Spanish
-  level: Professional
+  level: Native proficiency
+- language:
+  idiom: English
+  level: Bilingual proficiency
+- language:
+  idiom: Italian
+  level: Professional working proficiency
+- language:
+  idiom: German
+  level: Limited working proficiency

@@ -16,11 +16,15 @@
 
     </div><!--//meta-->
 
-    {% if experience.details %}
+
     <div class="details">
-      <p>{{ experience.details }}</p>
+      {% for item in experience.details %}
+
+      <p>{{ item.text }}</p>
+
+      {% endfor %}
     </div><!--//details-->
-    {% endif %}
+
 
   </div><!--//item-->
 {% endfor %}

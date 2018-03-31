@@ -1,28 +1,45 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Product Owner
+  time: 2018 - Present
+  company: Samsung Electronics, Madrid
+  details: 
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Frontend Director & Scrum Master
+  time: 2016 - 2017
+  company: Bloombees, Madrid
+  details:
+   - text: "- Frontend Director."
+   - text: "- Project Manager: Organizes different development agile teams as Scrum Master."
+   - text: "- DevOps: Built a continuous integration pipeline based on GitHub, CircleCI and JIRA to speed up developments, automatic quality checks and organize deployments."
+   - text: "- JIRA administrator: set up a JIRA based workflow for agile IT projects."
+   - text: "- Product Development Manager"
 - experience:
-  role: UI Developer
+  role: DevOps & Frontend Engineer
+  time: 2014 - 2016
+  company: adidas group, Zaragoza
+  details:
+    - text: "- Scrum Master: Agile developments. Balance project demand with available resources. Estimate development cost efforts."
+    - text: "- DevOps: Setting up and maintaining a CI Pipeline that assures automatic quality checks and deployment processes to guarantee an agile development."
+    - text: "- Front-End Web Engineer."
+    - text: "- Code Reviews/Technical Interviews."
+    - text: "- Best practices guidelines. Determining the best approach for the solution design."
+- experience:
+  role: R&D Engineer
   time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  company: Telnet - Redes Inteligentes, Zaragoza
+  details:
+    - text: "FTTH GPON department."
+    - text: "- Web applications."
+    - text: "- Developed configuration single page web interface for a FTTH ONT Router."
+    - text: "- Developed team management web application tools for internal use."
+    - text: "- Developed highly-scalable single page web application for configuring and
+monitoring FTTH networks with the capacity of giving service to a very large number of users."
+    - text: "- Project Manager."
+- experience:
+  role: Intern R&D
+  time: 2012 - 2012
+  company: Telnet - Redes Inteligentes, Zaragoza
+  details:
+    - text: "Final Project: Website Application for FTTH networks management."
+    - text: "Design, Analysis and Implementation of a smart and distributed provisioning FTTH ITU-T G.984 GPON system for local oriented telecommunications operators.
+http://zaguan.unizar.es/record/8850"
