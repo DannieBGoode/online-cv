@@ -1,8 +1,10 @@
 - experience:
-  role: Product Owner
+  role: Product Owner & Tech Lead
   time: 2018 - Present
   company: Samsung Electronics, Madrid
-  details: 
+  details:
+   - text: "- Product Owner: Requirement Specifications, Definition of Ready"
+   - text: "- Teach Lead: Defining Development Best Practices, Definition of Done"
 - experience:
   role: Frontend Director & Scrum Master
   time: 2016 - 2017
