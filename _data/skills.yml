@@ -2,10 +2,13 @@
   name: Agile Methodologies
   level: 98%
 - skill:
+  name: Project Management
+  level: 98%
+- skill:
   name: Javascript
   level: 98%
 - skill:
-  name: Angular
+  name: AngularJS
   level: 98%
 - skill:
   name: HTML5 & CSS3
